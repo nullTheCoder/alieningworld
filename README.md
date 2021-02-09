@@ -1,0 +1,3 @@
+# alieningworld
+
+A thing which generates random worlds, but not the way they are made in video games....
