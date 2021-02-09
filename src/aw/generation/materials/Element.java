@@ -1,6 +1,6 @@
 package aw.generation.materials;
 
-import java.awt.*;
+import java.awt.Color;
 
 public class Element {
     public int num;

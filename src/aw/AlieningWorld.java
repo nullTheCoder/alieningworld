@@ -4,7 +4,13 @@ import aw.generation.Generator;
 
 public class AlieningWorld {
 
-   public static void main(String[] args) {
+    // settings
+    public static int amountOfElements = 25;
+    public static int amountOfWParticles = 12; // can not be bigger than 36
+
+
+    // code
+    public static void main(String[] args) {
 
        System.out.println("AW is starting, please wait!");
 
