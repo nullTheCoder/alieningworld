@@ -7,6 +7,7 @@ public class AlieningWorld {
     // settings
     public static int amountOfElements = 25;
     public static int amountOfWParticles = 12; // can not be bigger than 36 |&| if string with chars is modified then the hard limit is 256 after that adding more will just be useless
+    public static int elementBulkiness = 10;
 
     // code
     public static void main(String[] args) {
